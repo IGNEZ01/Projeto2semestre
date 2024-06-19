@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4CD9F8BA-F624-4609-A7C0-8C6B581F372F}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_Alugai/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="API_Alugai/Controllers/Data/DbContext.cs" Line="57" Column="1" />
+      <File FileName="API_Alugai/Controllers/Models/Cliente.cs" Line="4" Column="15" />
+      <File FileName="API_Alugai/Controllers/Models/Localidade.cs" />
+      <File FileName="API_Alugai/Controllers/CarrosController.cs" />
+      <File FileName="API_Alugai/Controllers/LocalidadeController.cs" Line="33" Column="18" />
+      <File FileName="API_Alugai/Controllers/Models/Carro.cs" />
+      <File FileName="API_Alugai/Controllers/Models/Combustivel.cs" />
+      <File FileName="API_Alugai/Controllers/Models/Cor.cs" Line="1" Column="1" />
+      <File FileName="API_Alugai/Controllers/Models/Marca.cs" />
+      <File FileName="API_Alugai/Controllers/Models/Modelo.cs" />
+      <File FileName="API_Alugai/Controllers/Models/TipoCarro.cs" />
+      <File FileName="API_Alugai/Controllers/ClientesController.cs" Line="8" Column="1" />
+      <File FileName="API_Alugai/Controllers/LoginAPIController.cs" Line="64" Column="1" />
+      <File FileName="API_Alugai/appsettings.json" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API_Alugai" expanded="True">
+            <Node name="API_Alugai" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.API__Alugai PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
